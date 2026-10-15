@@ -1,0 +1,8 @@
+GIT COMMANDS TO PUSH THE FILE FROM LOCAL TO REPOSITORY
+
+#cd to the file path in your local where health_check.sh is present
+#git init
+#git add health_check.sh
+#git commit -m "Adding health_check.sh script"
+#git remote add origin https://github.com/Rozalan/Project1_SystemHealthReport.git
+#git push -u origin master
